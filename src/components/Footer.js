@@ -16,6 +16,7 @@ function Footer() {
                 <li><a href= "mailto:coreynance83@gmail.com">coreynance83@gmail.com</a></li>
                 <li><a href = "https://github.com/coreyNance" target = "_blank">github</a></li>
                 <li><a href = "https://www.linkedin.com/in/corey-nance-87139841/" target = "_blank">Linkedin</a></li>
+                <li><a href = "https://twitter.com/CoreyNsrt" target = "_blank">Twitter</a></li>
             </ul>
 
         </main>
