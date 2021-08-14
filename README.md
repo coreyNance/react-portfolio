@@ -61,7 +61,7 @@ Once pulled over from gitHub onto your local machine.
 - Once the window comes up with the file. Just double click the file and the file will open up in the browser of your choice. 
 
 ## Screenshot/video link
-[![Screenshot/video link](assets/images/screenshot.png)](https://youtu.be/VafkwA2dE60)
+[![Screenshot/video link](src/Assets/images/screenshot.png)](https://youtu.be/ofenxVDR1ng)
 <br>  
 
 
@@ -74,13 +74,13 @@ https://choosealicense.com/
 
 http://www.heroku.com/
 
-https://www.mongodb.com/
+https://reactjs.org/
 
 ## Deployment
-https://stormy-coast-28782.herokuapp.com/
+https://pacific-wave-90049.herokuapp.com/
     
 ## Repository
-https://github.com/coreyNance/workout_tracker
+https://github.com/coreyNance/react-portfolio
 
 
 ## License
